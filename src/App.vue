@@ -2,7 +2,6 @@
 import { reactive } from 'vue';
 import Cabecalho from './components/Cabecalho.vue';
 import Calculadora from './components/Calculadora.vue';
-// import Rodape from './components/Rodape.vue';
 
 const estado = reactive({
   valor1: 0,
